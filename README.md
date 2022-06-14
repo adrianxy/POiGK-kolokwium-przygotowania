@@ -1,4 +1,4 @@
-# Programowanie Obiektowe zadania kolokwialne
+# Programowanie Obiektowe zadania kolokwialne - semestr 4 
 
 Proste programy przedstawiające ruchome ementy w 3D z odpowiednio dobranym oświetleniem.
 
